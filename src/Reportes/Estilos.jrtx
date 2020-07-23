@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE jasperTemplate PUBLIC "-//JasperReports//DTD Template//EN" "http://jasperreports.sourceforge.net/dtds/jaspertemplate.dtd">
+
+<jasperTemplate>
+	<style name="Titulo" mode="Opaque" backcolor="#00CCCC" fill="Solid" hAlign="Center" vAlign="Middle" fontName="Calibri" fontSize="16" isBold="true" isItalic="false" isUnderline="false"/>
+	<style name="Columnas" mode="Opaque" backcolor="#FFFF00" hAlign="Center" vAlign="Middle" fontName="Arial Narrow" fontSize="16"/>
+	<style name="Filas" fontName="Bauhaus 93" fontSize="13"/>
+	<style name="Normal" mode="Opaque" backcolor="#003399" fontName="Calibri" fontSize="11"/>
+	<style name="Clase" hAlign="Center" vAlign="Middle" fontName="Calibri" fontSize="15" isBold="true"/>
+	<style name="Otro" mode="Opaque" backcolor="#999999" fontName="Arial" fontSize="11"/>
+</jasperTemplate>
